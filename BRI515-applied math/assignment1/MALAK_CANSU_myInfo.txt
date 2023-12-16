@@ -1,4 +1,0 @@
-First Name: Cansu
-Last Name: Malak
-Date of Birth: 1998 / 12 / 15
-Age in Seconds: 782708327.0013051 seconds
